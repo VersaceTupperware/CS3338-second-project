@@ -1,0 +1,42 @@
+commit ee81698ae3213837bcfc8fc079022696ab11bed0
+Merge: 50088c2 df351a2
+Author: Perez323 <zeber187@yahoo.com>
+Date:   Thu Sep 4 17:03:37 2025 -0700
+
+    I have resolved conflicts and am updating the file
+
+commit df351a2664573973040c0dd64dcb8a81f462e108
+Author: Perez323 <zeber187@yahoo.com>
+Date:   Thu Sep 4 16:56:58 2025 -0700
+
+    I added my favorite game
+
+commit 50088c220d3b36480c2cdc7226089590fbbd009b
+Author: Perez323 <zeber187@yahoo.com>
+Date:   Thu Sep 4 16:55:22 2025 -0700
+
+    I added my favorite food
+
+commit d781087532d0e7d3acc9448c73c0025a397cfa21
+Author: Perez323 <zeber187@yahoo.com>
+Date:   Thu Sep 4 16:44:59 2025 -0700
+
+    Add README.md
+
+commit 9638f5b8dcf23dcf4aded207b52689ac9064b706
+Author: Perez323 <zeber187@yahoo.com>
+Date:   Thu Sep 4 16:31:11 2025 -0700
+
+    I made more changes to the fill file
+
+commit 4fac575d35c344b543aa0da74a4bc617bb9d3bd6
+Author: Perez323 <zeber187@yahoo.com>
+Date:   Wed Sep 3 23:52:19 2025 -0700
+
+    I have filled in the blanks with info
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
